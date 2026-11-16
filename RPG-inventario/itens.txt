@@ -1,7 +1,0 @@
-ARMA;Espada de Ferro;8
-ARMA;Cajado da Floresta;12
-ARMADURA;Armadura de Placas;5
-ARMADURA;Manto Feerico;10
-POCAO;Pocao de Vida;30
-POCAO;Pocao de Vida;30
-POCAO;Pocao Maior;60
