@@ -1,3 +1,7 @@
+## Integrantes do projeto 
+Eduardo Kawatani Rios - GES - 668 // 
+Dalmo Ney Vieira Neto - GES - 670
+
 ## Uso de IA
 
 **Utilizou IA?** Sim.
